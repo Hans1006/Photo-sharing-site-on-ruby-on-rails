@@ -1,0 +1,2 @@
+Photo sharing website developed by Hans
+Technical supports: Ruby on rails, Twitter Bootstrap, Imagemagick, html5, css3
